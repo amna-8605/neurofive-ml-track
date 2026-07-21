@@ -14,7 +14,7 @@ The objective is to analyze passenger information and predict whether a passenge
 
 ---
 
-# Task 1 - Exploratory Data Analysis (EDA)
+# Task 1 - Exploratory Data Analysis (EDA):
 
 ## Objective
 Perform Exploratory Data Analysis to understand the dataset before applying Machine Learning.
@@ -39,7 +39,7 @@ Perform Exploratory Data Analysis to understand the dataset before applying Mach
 
 ---
 
-# Task 2 - Data Cleaning & Visualization
+# Task 2 - Data Cleaning & Visualization:
 
 ## Objective
 Clean the dataset and create visualizations to better understand the data.
@@ -70,7 +70,7 @@ Based on the visualizations, passenger **Sex** appeared to have the strongest re
 
 ---
 
-# Task 3 - Titanic Survival Prediction
+# Task 3 - Titanic Survival Prediction:
 
 ## Objective
 Build a Machine Learning model to predict passenger survival.
