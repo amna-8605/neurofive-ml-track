@@ -146,6 +146,35 @@ neurofive-ml-track/
 
 ---
 
+
+---
+
+# Task 4 - House Price Prediction using Linear Regression
+
+## Objective
+Build a Linear Regression model to predict house prices using the California Housing dataset.
+
+## Steps Performed
+- Loaded the California Housing dataset
+- Selected important features affecting house prices
+- Split the dataset into training and testing sets
+- Trained a Linear Regression model
+- Evaluated the model using RMSE and R² Score
+- Visualized Actual vs Predicted house prices using a scatter plot
+
+## Skills Learned
+- Regression
+- Linear Regression
+- Feature Selection
+- Train-Test Split
+- RMSE
+- R² Score
+- Model Evaluation
+
+## Final Results
+- **RMSE:** 0.81
+- **R² Score:**0.49
+
 ## Author
 
 **Amna Shahid**
