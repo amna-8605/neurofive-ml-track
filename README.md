@@ -2,7 +2,7 @@
 
 This repository contains the weekly tasks completed during my Machine Learning Internship at **Neurofive Solutions**.
 
-The project uses the Titanic dataset to learn the complete Machine Learning workflow, starting from Exploratory Data Analysis (EDA) to building and evaluating a Machine Learning model.
+The project uses the Titanic dataset to learn the complete Machine Learning workflow, starting from Exploratory Data Analysis (EDA) to building and evaluating a Machine Learning model..
 
 ---
 
