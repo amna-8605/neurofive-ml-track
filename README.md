@@ -175,7 +175,7 @@ Build a Linear Regression model to predict house prices using the California Hou
 - **RMSE:** 0.81
 - **R² Score:**0.49
 
-## Week 5 - Model Evaluation & Hyperparameter Tuning
+## Week 3 (Task 1) - Model Evaluation & Hyperparameter Tuning
 
 ### Completed Tasks
 
@@ -184,6 +184,18 @@ Build a Linear Regression model to predict house prices using the California Hou
 - Applied GridSearchCV to tune Logistic Regression hyperparameters
 - Compared original and tuned models
 - Updated notebook with evaluation results
+
+## Week 3(task 2) – Customer Churn Prediction
+
+### Tasks Completed
+
+- Performed Exploratory Data Analysis (EDA)
+- Cleaned and preprocessed the dataset
+- Encoded categorical variables
+- Trained Logistic Regression and Decision Tree models
+- Compared model performance
+- Identified the top features driving customer churn
+- Prepared a business-focused summary
 
 ## Author
 
