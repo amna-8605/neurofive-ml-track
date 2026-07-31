@@ -175,6 +175,16 @@ Build a Linear Regression model to predict house prices using the California Hou
 - **RMSE:** 0.81
 - **R² Score:**0.49
 
+## Week 5 - Model Evaluation & Hyperparameter Tuning
+
+### Completed Tasks
+
+- Evaluated model using Precision, Recall and F1-score
+- Explained why accuracy alone can be misleading
+- Applied GridSearchCV to tune Logistic Regression hyperparameters
+- Compared original and tuned models
+- Updated notebook with evaluation results
+
 ## Author
 
 **Amna Shahid**
