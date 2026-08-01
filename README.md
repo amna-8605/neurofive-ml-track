@@ -197,6 +197,19 @@ Build a Linear Regression model to predict house prices using the California Hou
 - Identified the top features driving customer churn
 - Prepared a business-focused summary
 
+
+## Week 4 (task 1) – Machine Learning Pipelines
+
+### Completed Tasks
+
+- Built a preprocessing pipeline using ColumnTransformer
+- Applied StandardScaler to numerical features
+- Applied OneHotEncoder to categorical features
+- Combined preprocessing and Logistic Regression into one Pipeline
+- Created two engineered features (FamilySize and IsAlone)
+- Compared pipeline performance with manual preprocessing
+- Saved the trained pipeline using joblib
+
 ## Author
 
 **Amna Shahid**
