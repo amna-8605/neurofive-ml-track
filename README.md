@@ -210,6 +210,29 @@ Build a Linear Regression model to predict house prices using the California Hou
 - Compared pipeline performance with manual preprocessing
 - Saved the trained pipeline using joblib
 
+## Week 4(task 2) – Ensemble Learning (Titanic Dataset)
+
+### Task Completed
+
+In this task, I explored ensemble learning techniques using the Titanic dataset.
+
+### Models Implemented
+
+- Logistic Regression (Baseline)
+- Random Forest Classifier
+- XGBoost Classifier
+
+### Work Completed
+
+- Trained and evaluated three machine learning models.
+- Compared model performance using accuracy and classification reports.
+- Visualized feature importance for Random Forest and XGBoost.
+- Learned the difference between Bagging (Random Forest) and Boosting (XGBoost).
+
+### Key Learning
+
+Ensemble learning combines multiple models to improve prediction accuracy and robustness. Random Forest reduces overfitting by averaging many trees, while XGBoost builds trees sequentially to correct previous mistakes, often achieving better performance.
+
 ## Author
 
 **Amna Shahid**
