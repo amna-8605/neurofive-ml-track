@@ -233,6 +233,32 @@ In this task, I explored ensemble learning techniques using the Titanic dataset.
 
 Ensemble learning combines multiple models to improve prediction accuracy and robustness. Random Forest reduces overfitting by averaging many trees, while XGBoost builds trees sequentially to correct previous mistakes, often achieving better performance.
 
+# Week 5(Task 1) :Credit Card Fraud Detection using SMOTE
+
+## Objective
+Detect fraudulent credit card transactions while handling severe class imbalance.
+
+## Techniques Used
+- Data Exploration
+- Class Distribution Visualization
+- Logistic Regression
+- SMOTE (Synthetic Minority Oversampling)
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+
+## Results
+
+| Model | Precision | Recall | F1 Score |
+|--------|----------|--------|----------|
+| Logistic Regression (Before SMOTE) | 0.84 | 0.70 | 0.76 |
+| Logistic Regression (After SMOTE) | 0.11| 0.89| 0.20 |
+
+## Why Accuracy is Misleading
+
+The dataset contains far more legitimate transactions than fraudulent ones. A model predicting every transaction as legitimate could still achieve over 99% accuracy while failing to detect fraud. Therefore Precision, Recall, and F1-score provide a much better evaluation of model performance.
+
 ## Author
 
 **Amna Shahid**
